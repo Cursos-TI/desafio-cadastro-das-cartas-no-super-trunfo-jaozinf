@@ -551,6 +551,7 @@ int main(){
     printf("Digite o numero de pontos turisticos: \n");
     scanf("%d", &pontos);
 
+    \NULL
     printf("nome: %s\n", pais1);
     printf("estado: %s\n", estadoa);
     printf("cidade: %s\n", cidade1);
@@ -560,6 +561,7 @@ int main(){
     printf("pib: %F\n", pib);
     printf("pontos turisticos: %d\n", pontos);
 
+    \NULL
     printf("nome: %s\n", pais1);
     printf("estado: %s\n", estadoa);
     printf("cidade: %s\n", cidade2);
@@ -578,6 +580,7 @@ int main(){
     printf("pib: %F\n", pib);
     printf("pontos turisticos: %d\n", pontos);
 
+    \NULL
     printf("nome: %s\n", pais1);
     printf("estado: %s\n", estadoa);
     printf("cidade: %s\n", cidade4);
